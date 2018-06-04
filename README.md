@@ -26,6 +26,9 @@
 - 抓包工具:Charles
   - https://www.charlesproxy.com/
 
+- shell 工具
+  - SecureCRT: 
+  - xshell: 
 
 常用 npm 插件
 ```
