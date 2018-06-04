@@ -53,6 +53,9 @@
 ```
 npm i -g node-sass node-gyp gulp parcel-bundler webpack webpack-server express express-generator
   @vue/cli http-server anywhere  pm2  forever supervisor
+  eslint gitbook-cli typescript socket.io 
+  lodash moment bluebird async colors chalk log4js   xml2js
+  restify hapi passport node-inspector cross-env 
 ```
 
 
