@@ -13,6 +13,8 @@
   - https://gitforwindows.org/
   - 可以 `clone` 本版本库切换 `git-2.17.1` 分支
 
+- Python: https://www.python.org/downloads/
+
 - photoshop
 
 - sublime: https://www.sublimetext.com/
