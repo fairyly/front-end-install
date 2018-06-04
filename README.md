@@ -20,6 +20,9 @@
 
 - photoshop
 
+- Axure RP
+- xmind
+
 - sublime: https://www.sublimetext.com/
   - 插件: 参考- https://github.com/fairyly/html-demo/blob/gh-pages/sublime.md
 
