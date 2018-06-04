@@ -54,3 +54,12 @@
 npm i -g node-sass node-gyp gulp parcel-bundler webpack webpack-server express express-generator
   @vue/cli http-server anywhere
 ```
+
+
+
+* 虚拟机 
+```
+VMware 2017 v14.x 永久许可证激活密钥
+FF31K-AHZD1-H8ETZ-8WWEZ-WUUVA
+CV7T2-6WY5Q-48EWP-ZXY7X-QGUWD
+```
