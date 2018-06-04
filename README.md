@@ -15,6 +15,8 @@
 
 - Python: https://www.python.org/downloads/
 
+- ruby: https://rubyinstaller.org/
+
 - photoshop
 
 - sublime: https://www.sublimetext.com/
