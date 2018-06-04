@@ -32,7 +32,10 @@
 - shell 工具
   - SecureCRT: 
   - xshell: 
-
+  
+  
+- php 本地集成环境
+  - PHPstudy
 
 - ftp 工具
   - winscp
