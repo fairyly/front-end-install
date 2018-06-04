@@ -16,6 +16,7 @@
 - Python: https://www.python.org/downloads/
 
 - ruby: https://rubyinstaller.org/
+  - https://rubyinstaller.org/downloads/
 
 - photoshop
 
