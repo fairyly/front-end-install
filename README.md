@@ -18,6 +18,8 @@
 - ruby: https://rubyinstaller.org/
   - https://rubyinstaller.org/downloads/
 
+- redis: https://redis.io/download
+
 - photoshop
 
 - Axure RP
