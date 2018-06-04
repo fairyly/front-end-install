@@ -30,6 +30,11 @@
   - SecureCRT: 
   - xshell: 
 
+
+- ftp 工具
+  - winscp
+  - 8uftp
+
 常用 npm 插件
 ```
 npm i -g node-sass node-gyp gulp parcel-bundler webpack webpack-server express express-generator
