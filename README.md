@@ -25,3 +25,9 @@
 
 - 抓包工具:Charles
   - https://www.charlesproxy.com/
+
+
+常用 npm 插件
+```
+npm i -g node-sass node-gyp gulp parcel-bundler webpack webpack-server
+```
