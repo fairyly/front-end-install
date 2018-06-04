@@ -52,7 +52,7 @@
 常用 npm 插件
 ```
 npm i -g node-sass node-gyp gulp parcel-bundler webpack webpack-server express express-generator
-  @vue/cli http-server anywhere
+  @vue/cli http-server anywhere  pm2  forever supervisor
 ```
 
 
