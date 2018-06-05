@@ -21,9 +21,37 @@
 - redis: https://redis.io/download
 
 - photoshop
+  - 链接：https://pan.baidu.com/s/1Jf1O7EFo2B4w_7cKSiuL-Q 密码：a79b
 
 - Axure RP
+  - https://github.com/fairyly/product-manager-road/blob/gh-pages/Axure8.md
+  
 - xmind
+  - http://www.xmindchina.net/xiazai.html
+  - Xmind 8 pro 序列号：XAka34A2rVRYJ4XBIU35UZPAUHF64CMMIYZCK2FZZUQNODIAOSPGFLFMSLIQMQUCUBXRENLK6NZL37JXP4PZXQFILMQ2RG5R7G4QNDO3PSOEUBOCDRYSSXZGRARV6MGA33TN2AMUBHEL4FXMWLAOSITHJUAV4BAYKBDCZQWVF3LWYXSDCXY546U3NBGOI3ZPAP2SO3CQIANDUODUO
+  ```
+  如何破解？
+
+  1. 卸载之前的版本
+  2. 安装 XMind 8 Pro, 运行
+  3. 去除检查更新:
+  -> 编辑 -> 首选项 -> 常规 -> 启动 -> 把"启动时检查更新"和"发送用户数据"两个选项的勾去掉
+  4. 关闭 XMind
+  5. 复制 'XMind.ini' 替换到安装目录
+  6. 把 RCE 文件夹复制到安装目录
+  7. 打开"c:\windows\system32\drivers\etc"，以文本方式打开hosts，添加以下内容
+
+  # XMind Mind-Mapper
+  0.0.0.0 xmind.net
+  0.0.0.0 www.xmind.net
+
+  9. 运行XMind 8 Pro 注册
+  -> 帮助 -> 序列号 -> 输入
+
+  Email Address:1154595273@qq.com
+  Serial Key:
+  XAka34A2rVRYJ4XBIU35UZMUEEF64CMMIYZCK2FZZUQNODEKUHGJLFMSLIQMQUCUBXRENLK6NZL37JXP4PZXQFILMQ2RG5R7G4QNDO3PSOEUBOCDRYSSXZGRARV6MGA33TN2AMUBHEL4FXMWYTTJDEINJXUAV4BAYKBDCZQWVF3LWYXSDCXY546U3NBGOI3ZPAP2SO3CSQFNB7VVIY123456789012345
+  ```
 
 - sublime: https://www.sublimetext.com/
   - 插件: 参考- https://github.com/fairyly/html-demo/blob/gh-pages/sublime.md
