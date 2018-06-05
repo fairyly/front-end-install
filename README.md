@@ -23,8 +23,10 @@
 - photoshop
   - 链接：https://pan.baidu.com/s/1Jf1O7EFo2B4w_7cKSiuL-Q 密码：a79b
 
-- Axure RP
-  - https://github.com/fairyly/product-manager-road/blob/gh-pages/Axure8.md
+
+- Axure RP 或者 mockplus
+  - Axure8：https://github.com/fairyly/product-manager-road/blob/gh-pages/Axure8.md
+  - mockplus：https://www.mockplus.cn/
   
 - xmind
   - http://www.xmindchina.net/xiazai.html
