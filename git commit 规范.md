@@ -1,5 +1,11 @@
 # git commit 规范
+```
+<type>(<scope>): <subject> // 必须
 
+                <body> // 可省略
+
+                <footer> // 可省略
+```
 
 style  (简写: S):  只增加样式 
 
