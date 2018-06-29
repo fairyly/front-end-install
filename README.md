@@ -13,6 +13,10 @@
   - https://gitforwindows.org/
   - 可以 `clone` 本版本库切换 `git-2.17.1` 分支
 
+- phantomjs
+  - Downloading https://github.com/Medium/phantomjs/releases/download/v2.1.1/phantomjs-2.1.1-windows.zip
+    Saving to C:\Users\fairy\AppData\Local\Temp\phantomjs\phantomjs-2.1.1-windows.zip
+
 - Python: https://www.python.org/downloads/
 
 - ruby: https://rubyinstaller.org/
