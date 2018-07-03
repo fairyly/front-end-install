@@ -90,7 +90,7 @@ npm i -g node-sass node-gyp gulp parcel-bundler webpack webpack-server express e
   eslint gitbook-cli typescript socket.io 
   lodash moment bluebird async colors chalk log4js   xml2js
   restify hapi passport node-inspector cross-env 
-  hiper
+  hiper yd_translate
 ```
 
 
