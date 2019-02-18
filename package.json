@@ -1,0 +1,22 @@
+{
+  "name": "front-end-install",
+  "version": "1.0.0",
+  "description": "frontend install",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairyly/front-end-install.git"
+  },
+  "keywords": [
+    "install"
+  ],
+  "author": "fairyilys@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fairyly/front-end-install/issues"
+  },
+  "homepage": "https://github.com/fairyly/front-end-install#readme"
+}
